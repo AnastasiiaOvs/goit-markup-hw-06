@@ -357,6 +357,7 @@ margin-bottom: 40px;
         background-color: var(--color-cloud);
         color: var(--color-navyblue);
         padding: 96px 0px;
+        justify-content: center;
     
     }
     .our_team {
